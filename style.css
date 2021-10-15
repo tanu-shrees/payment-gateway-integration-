@@ -1,7 +1,7 @@
 
 body{
   background-color:rgb(36, 33, 35);
-  background-image: url(img/background.jpg);
+  background-image: url(background.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
